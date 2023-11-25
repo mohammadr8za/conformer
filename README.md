@@ -99,3 +99,7 @@ I follow [PEP-8](https://www.python.org/dev/peps/pep-0008/) for code style. Espe
   
 * Soohwan Kim [@sooftware](https://github.com/sooftware)
 * Contacts: sh951011@gmail.com
+
+## Modified for Audio Classification Using MFCC Features
+* Mohammad Reza Peyghan [@mohammadr8za](https://github.com/mohammadr8za)
+* Contact: mohammadreza.peyghan@gmail.com
